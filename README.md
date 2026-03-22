@@ -1,7 +1,6 @@
 # Fumarole — Obsidian Plugin
 
 **Embed a fully interactive terminal inside your Obsidian workspace.**  
-Designed for running the [Gemini CLI](https://github.com/google-gemini/gemini-cli) directly from within your vault, but works with any shell.
 
 ![demo](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue) ![license](https://img.shields.io/badge/License-MIT-green)
 

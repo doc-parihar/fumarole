@@ -1,0 +1,10 @@
+{
+	"id": "fumarole",
+	"name": "Fumarole",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Embed a fully interactive terminal inside Obsidian. Designed for any shell.",
+	"author": "Koshtubh Singh Parihar",
+	"authorUrl": "https://github.com/doc-parihar",
+	"isDesktopOnly": true
+}

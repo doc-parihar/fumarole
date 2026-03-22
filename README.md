@@ -27,7 +27,7 @@
   - **macOS**: Install Xcode Command Line Tools (`xcode-select --install`).
   - **Linux**: `sudo apt install build-essential` (or equivalent).
 
-### Option A — Install via BRAT (Recommended)
+### Option A: Install via BRAT (Recommended)
 
 [BRAT](https://github.com/TfTHacker/obsidian42-brat) lets you install plugins directly from GitHub without waiting for community plugin approval.
 
@@ -48,7 +48,7 @@
 
 > **Note:** The `npm install` and `npm run build` step is required because Fumarole uses `node-pty`, a native module that must be compiled on your machine.
 
-### Option B — Manual Installation
+### Option B: Manual Installation
 
 1. Download the [latest release](../../releases/latest) (or clone this repo).
 2. Copy the plugin folder into your vault:

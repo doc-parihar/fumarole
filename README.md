@@ -8,12 +8,12 @@
 
 ## ✨ Features
 
-- **True PTY terminal** — full color, TUI support, and interactive programs work out of the box.
-- **Custom Icon** — distinct and unique icon to separate it from the native command palette.
-- **Cross-platform** — auto-detects your OS and offers the right shells (PowerShell, cmd, zsh, bash, fish, custom).
-- **Configurable pane layout** — open as a horizontal split, vertical split, or in the right sidebar.
-- **Settings menu** — choose your default shell, font size, and split direction from the plugin settings.
-- **Secure** — the WebSocket PTY server binds to `127.0.0.1` only; no external network access.
+- **True PTY terminal**: full color, TUI support, and interactive programs work out of the box.
+- **Custom Icon**: distinct and unique icon to separate it from the native command palette.
+- **Cross-platform**: auto-detects your OS and offers the right shells (PowerShell, cmd, zsh, bash, fish, custom).
+- **Configurable pane layout**: open as a horizontal split, vertical split, or in the right sidebar.
+- **Settings menu**: choose your default shell, font size, and split direction from the plugin settings.
+- **Secure**: the WebSocket PTY server binds to `127.0.0.1` only; no external network access.
 
 ---
 

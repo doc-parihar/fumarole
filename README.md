@@ -1,4 +1,4 @@
-# Fumarole — Obsidian Plugin
+# Fumarole Plugin
 
 **Embed a fully interactive terminal inside your Obsidian workspace.**  
 
